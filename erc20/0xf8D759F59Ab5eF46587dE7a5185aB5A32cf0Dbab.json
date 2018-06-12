@@ -1,0 +1,20 @@
+{
+  "symbol": "CMCL",
+  "address": "0xf8D759F59Ab5eF46587dE7a5185aB5A32cf0Dbab",
+  "overview":{
+        "en":"A point-to-point public donation system developed based on ERC20.",
+        "zh":"基于ERC20开发的点对点的公益捐助系统"
+  },
+  "email": "postmaster@cmcl.co",
+  "website": "http://cmcl.co/",
+  "whitepaper": "http://cmcl.co/images/cmcl_e.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-05-01",
+  "initial_price":{
+        "ETH":"0.000025 ETH"
+  },
+  "links": {
+    "twitter": "https://twitter.com/commonwealchain",
+    "telegram": "https://t.me/joinchat/IdbFkRBqe5tBLbC-AljGAA"
+  }
+}
