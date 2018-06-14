@@ -1,0 +1,17 @@
+{
+  "symbol": "CMCL-token",
+  "address": "0xD2DCba99F8936E576C533c04D25EdBC9F762818e",
+  "overview":{
+        "en": "Point to point charitable donation platform.",
+        "zh": "点对点的公益捐助平台。"
+  },
+  "email": "postmaster@cmcl.co",
+  "website": "www.cmcl.co",
+  "whitepaper": "http://www.cmcl.co/images/cmcl_e.pdf",
+  "links": {
+    "twitter": "https://twitter.com/commonwealChain",
+    "telegram": "https://0.plus/cmcl1",
+    "github": "https://gist.github.com/90f1b1167962dd939de56415272f47dc"
+   
+  }
+}
